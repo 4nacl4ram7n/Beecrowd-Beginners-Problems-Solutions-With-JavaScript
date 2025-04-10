@@ -24,5 +24,6 @@ class Beecrowd {
 
 const progress = new Beecrowd();
 progress.logData();
+// { language: 'JavaScript', solved: 59, total: 334, percentage: '18%' }
 ```
 
