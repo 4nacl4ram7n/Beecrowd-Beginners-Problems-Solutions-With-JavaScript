@@ -6,7 +6,7 @@
 class Beecrowd {
   constructor() {
     this.language = "JavaScript";
-    this.solved = 59;
+    this.solved = 83;
     this.total = 334;
   }
 
@@ -26,6 +26,6 @@ class Beecrowd {
 
 const progress = new Beecrowd();
 progress.logData();
-// { language: 'JavaScript', solved: 59, total: 334, percentage: '18%' }
+// { language: 'JavaScript', solved: 83, total: 334, percentage: '25%' }
 ```
 
